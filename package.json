@@ -1,0 +1,9 @@
+{
+  "name": "harishgowda",
+  "version": "1.0.0",
+  "bin": {
+    "harishgowda":"index.js"
+  },
+  "description": "This is a cli which prints my name"
+  
+}
